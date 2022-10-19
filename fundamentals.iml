@@ -44,5 +44,8 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+    <orderEntry type="library" name="spekframework.spek2.spek.dsl.jvm" level="project" />
+    <orderEntry type="library" name="spekframework.spek2.spek.runner.junit5" level="project" />
+    <orderEntry type="library" name="nhaarman.mockito.kotlin" level="project" />
   </component>
 </module>

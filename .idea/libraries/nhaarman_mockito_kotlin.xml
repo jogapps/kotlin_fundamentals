@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="nhaarman.mockito.kotlin" type="repository">
+    <properties maven-id="com.nhaarman:mockito-kotlin:1.6.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nhaarman/mockito-kotlin/1.6.0/mockito-kotlin-1.6.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.0.7/kotlin-stdlib-1.0.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-runtime/1.0.7/kotlin-runtime-1.0.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.0.7/kotlin-reflect-1.0.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.18.3/mockito-core-2.18.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.8.5/byte-buddy-1.8.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.8.5/byte-buddy-agent-1.8.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.6/objenesis-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
